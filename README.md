@@ -11,3 +11,11 @@ Organism is an open source design kit created by a community of designers workin
 Following the principles of [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/), Organism takes the *Atoms* and *Molecules* from Material Design and adds new *Organisms*; desktop app layouts, data visualizations and other design patterns proven in real applications.
 
 The Organism design kit is available for [Sketch](https://www.sketchapp.com/) and makes use of [Symbols](https://www.sketchapp.com/docs/symbols/) and [Libraries](https://www.sketchapp.com/docs/libraries/) to deliver reusable and extendable elements with optional overrides for color and branding.
+
+---
+
+## Version 0.1
+
+Released 18 Jan 2018
+
+**Icons** - Added over 900 [Google Material system icons](https://material.io/icons/) prepared for Sketch at 24px x 24px with color overrides. To change an icon color, overide the Color symbol with any 100px x 100px color symbol.
