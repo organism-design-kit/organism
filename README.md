@@ -14,6 +14,12 @@ The Organism design kit is available for [Sketch](https://www.sketchapp.com/) an
 
 ---
 
+## Version 0.2
+
+Released 2 Feb 2018
+
+**Styles** - Added symbols for [Colors](https://material.io/guidelines/style/color.html) and [Typography](https://material.io/guidelines/style/typography.html). Updated Icons to use alpha mask to support transparent colours. 
+
 ## Version 0.1
 
 Released 18 Jan 2018
