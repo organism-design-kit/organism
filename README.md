@@ -14,6 +14,12 @@ The Organism design kit is available for [Sketch](https://www.sketchapp.com/) an
 
 ---
 
+## Version 0.3
+
+Released 15 Mar 2018
+
+**Icon styles** - Reverted icons back to outline masks to avoid issues with rasterisation. Added icon styles for Icon/Black and Icon/White containers in the Style pack to achieve standard transparencies in light or dark themes.
+
 ## Version 0.2
 
 Released 2 Feb 2018
